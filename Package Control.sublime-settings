@@ -1,0 +1,16 @@
+{
+	"auto_upgrade_last_run": 1349252584,
+	"installed_packages":
+	[
+		"DetectSyntax",
+		"ERB Insert and Toggle Commands",
+		"jQuery",
+		"Package Control",
+		"Rails Related Files",
+		"RubyTest",
+		"ScopeHunter",
+		"Simple Rails Navigator",
+		"SublimeCodeIntel",
+		"SublimeLinter"
+	]
+}
