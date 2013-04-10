@@ -1,4 +1,4 @@
 {
-	"last_test_run": "ruby -c javascript_stories_test.rb",
-	"last_test_working_dir": "/Users/chrisbell/Sites/ITV/nsw/tophat"
+	"last_test_run": "ruby -Itest test/integration/creating_a_photo_test.rb -n 'test_I_can_create_a_photo_and_it_is_assigned_to_the_album_and_I_am_the_owner_of_the_photo'",
+	"last_test_working_dir": "/Users/chrisbell/photos_together_api"
 }
